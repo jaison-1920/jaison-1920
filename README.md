@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)](https://github.com/jaison-1920/jaison-1920)
 <h1 align="center">Hi 👋, I'm JAISON PHILIP</h1>
-<h3 align="center">A passionate self taught DATA SCIENTIST from India</h3>
+<h3 align="center">A passionate self taught DATA ANALYST</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaison-1920&label=Profile%20views&color=0e75b6&style=flat" alt="jaison-1920" /> </p>
