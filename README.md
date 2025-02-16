@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaison-1920&label=Profile%20views&color=0e75b6&style=flat" alt="jaison-1920" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **python, ML, AI**
+- 💬 Ask me about **python, ML, POWER BI, DATA ANALYSIS**
 
-- 📫 How to reach me **jaisonvellinchayil@gmail.com**
+- 📫 How to reach me **jaisonmlengineer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
